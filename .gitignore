@@ -1,0 +1,9 @@
+# Rust project
+/target
+
+# environments
+.env
+.envrc
+
+# JetBrains IDEs
+.idea/

@@ -1,0 +1,23 @@
+[default]
+region = ap-northeast-1
+output = json
+
+[   inner-spaces   ]
+region = ap-northeast-1
+output = json
+
+  [outer-spaces]
+region = ap-northeast-1
+output = json
+
+[profile profile-name]
+region = ap-northeast-1
+output = json
+
+[  profile profile-inner-spaces  ]
+region = ap-northeast-1
+output = json
+
+  [profile profile-outer-spaces]
+region = ap-northeast-1
+output = json
